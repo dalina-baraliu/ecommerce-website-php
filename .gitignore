@@ -1,0 +1,16 @@
+# Local database configuration
+config.php
+.env
+.env.*
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
